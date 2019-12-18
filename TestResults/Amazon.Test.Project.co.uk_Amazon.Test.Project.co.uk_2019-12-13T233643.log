@@ -1,0 +1,87 @@
+﻿2019-12-13T23:36:42.6894716+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-13T23:36:42.6894716+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2019-12-13T23:36:42.6894716+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Amazon.Test.Project.co.uk\packages\SpecRun.Runner.3.1.38\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-13T23:36:43.0509041+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-13T23:36:43.0519027+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Amazon.Test.Project.co.uk\TestResults" (default)
+2019-12-13T23:36:43.0519027+00:00;VSTestExecutionThread;Info;Profile: Amazon.Test.Project.co.uk
+2019-12-13T23:36:43.1138081+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Amazon.Test.Project.co.uk\TestResults\Amazon.Test.Project.co.uk_Amazon.Test.Project.co.uk_2019-12-13T233643.log
+2019-12-13T23:36:43.1467533+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-13T23:36:43.1647271+00:00;Thread#13;Info;Checking license
+2019-12-13T23:36:43.2106571+00:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-12-13T23:36:55.2124293+00:00;Thread#13;Info;Evaluation delay finished.
+2019-12-13T23:36:55.2423772+00:00;Thread#13;Info;License check completed
+2019-12-13T23:36:55.2423772+00:00;Thread#13;Info;starting test run
+2019-12-13T23:36:55.2693323+00:00;Thread#13;Info;Discovering target: Default
+2019-12-13T23:36:55.2703336+00:00;Thread#13;Info;Discovering tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-13T23:36:56.2008740+00:00;Thread#13;Info;Discovered tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-13T23:36:56.2028721+00:00:Test Suite Dump
+2019-12-13T23:36:56.2078604+00:00:#0: Amazon.Test.Project.co.uk/Amazon.Test.Project.co.uk - 
+2019-12-13T23:36:56.2078604+00:00:#1: Default - 
+2019-12-13T23:36:56.2078604+00:00:#2: Amazon.Test.Project.co.uk - 
+2019-12-13T23:36:56.2078604+00:00:#3: CustomerCanSearchForItemOfTheirChoice - 
+2019-12-13T23:36:56.3057067+00:00:#4: Customer can searchn for an item of their choice., trousers - TestAssembly:Amazon.Test.Project.co.uk/Feature:CustomerCanSearchForItemOfTheirChoice/Scenario:Customer+can+searchn+for+an+item+of+their+choice.%2c+trousers
+2019-12-13T23:36:56.3057067+00:00:#5: Customer can searchn for an item of their choice., bicycle carrier - TestAssembly:Amazon.Test.Project.co.uk/Feature:CustomerCanSearchForItemOfTheirChoice/Scenario:Customer+can+searchn+for+an+item+of+their+choice.%2c+bicycle+carrier
+2019-12-13T23:36:56.3057067+00:00:End: Test Suite Dump
+2019-12-13T23:36:56.3656127+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-13T23:36:56.3706050+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-13T23:36:56.3706050+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-13T23:36:56.3815886+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-13T23:36:56.3815886+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-13T23:36:56.3815886+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-13T23:36:56.3815886+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-13T23:36:56.3845838+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-13T23:36:56.3875782+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-13T23:36:56.3945719+00:00:Thread #0: creating new test thread executor for Amazon.Test.Project.co.uk, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-13T23:36:56.3995636+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-13T23:36:56.4065494+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-13T23:36:56.4115433+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-13T23:36:57.8740779+00:00:Thread#0:T:-> Loading plugin C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-13T23:36:57.9519556+00:00:Thread#0:T:-> Using default config
+2019-12-13T23:36:59.6808179+00:00:Thread#0: Test #4/0 is started on thread #0
+2019-12-13T23:37:11.1462488+00:00:Thread#0:B:Given I navigate to amazon homepage
+2019-12-13T23:37:19.6654705+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonHomepage() (8.4s)
+2019-12-13T23:37:19.6684658+00:00:Thread#0:B:When I enter "trousers" to searchfield
+2019-12-13T23:37:21.0063649+00:00:Thread#0:T:Element (id = fb7038aa-ad4b-4d06-a016-615dfb7147c6) is now retrieved
+2019-12-13T23:37:22.4980222+00:00:Thread#0:T:done: SearchStep.WhenIEnterToSearchfield("trousers") (2.8s)
+2019-12-13T23:37:22.4990211+00:00:Thread#0:B:And i click on Submitbutton
+2019-12-13T23:37:29.9092528+00:00:Thread#0:T:Screenshot cannot be written because of System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Screeshots\12132019_233728.png'.
+2019-12-13T23:37:29.9092528+00:00:Thread#0:T:   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+2019-12-13T23:37:29.9092528+00:00:Thread#0:T:   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+2019-12-13T23:37:29.9102529+00:00:Thread#0:T:   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+2019-12-13T23:37:29.9102529+00:00:Thread#0:T:   at System.IO.FileStream..ctor(String path, FileMode mode)
+2019-12-13T23:37:29.9112513+00:00:Thread#0:T:   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+2019-12-13T23:37:29.9112513+00:00:Thread#0:T:   at Amazon.Test.Project.co.uk.BaseClass.SaveScreenshot() in C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\Baseclass\BaseClass.cs:line 111 
+2019-12-13T23:37:29.9242310+00:00:Thread#0:T:error: invalid selector: An invalid or illegal selector was specified
+2019-12-13T23:37:29.9242310+00:00:Thread#0:T:  (Session info: chrome=79.0.3945.79)
+2019-12-13T23:37:29.9362097+00:00:Thread#0:B:Then new "trousers" should displayed
+2019-12-13T23:37:29.9422007+00:00:Thread#0:T:skipped because of previous errors
+2019-12-13T23:37:30.1388924+00:00:Cancelling because configured number of failures reached
+2019-12-13T23:37:31.2711112+00:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 31.5882947 seconds
+2019-12-13T23:37:31.3569818+00:00:Trying to cancel thread
+2019-12-13T23:37:31.3569818+00:00:Thread cancelled
+2019-12-13T23:37:31.3755748+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-13T23:37:31.3755748+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-12-13T23:37:31.3755748+00:00:Thread#-1:Scheduler: considering testitem #5 for thread -1
+2019-12-13T23:37:31.3755748+00:00:Thread#-1:Scheduler: using testitem #5 for thread -1
+2019-12-13T23:37:31.3755748+00:00:Thread#-1:Scheduler: Test #5 is scheduled for thread
+2019-12-13T23:37:31.3765738+00:00:Thread#-1: Test #5/0 is started on thread #-1
+2019-12-13T23:37:31.3765738+00:00:Thread#-1: Test #5/0 is finished on thread #-1 as Skipped within 0 seconds
+2019-12-13T23:37:31.3765738+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-13T23:37:31.3765738+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-13T23:37:31.3765738+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-13T23:37:31.3835671+00:00;Thread#13;Info;test run finished
+2019-12-13T23:37:31.3845677+00:00;Thread#13;Info;publishing test results
+2019-12-13T23:37:31.4065252+00:00;Thread#13;Info;test results published
+2019-12-13T23:37:31.4075289+00:00;Thread#13;Info;generating reports
+2019-12-13T23:37:31.7965298+00:00;Thread#13;Info;Starting external report generation process
+2019-12-13T23:37:38.1856753+00:00;Thread#13;Info;Successfully generated reports.
+2019-12-13T23:37:38.1906672+00:00;Thread#13;Info;Successfully generated reports
+2019-12-13T23:37:38.2146278+00:00:Total: 2
+2019-12-13T23:37:38.2206207+00:00:Succeeded: 0
+2019-12-13T23:37:38.2226183+00:00:Ignored: 0
+2019-12-13T23:37:38.2236139+00:00:Pending: 0
+2019-12-13T23:37:38.2236139+00:00:Skipped: 1
+2019-12-13T23:37:38.2256091+00:00:Failed: 1
+2019-12-13T23:37:38.2615615+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-13T23:37:38.2625605+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\c# project\Amazon.Test.Project.co.uk\TestResults\Amazon.Test.Project.co.uk_Amazon.Test.Project.co.uk_2019-12-13T233643.html'
+========== End of log file ==========

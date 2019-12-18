@@ -1,0 +1,97 @@
+﻿2019-12-18T00:30:38.6935820+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-18T00:30:38.6935820+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2019-12-18T00:30:38.6935820+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Amazon.Test.Project.co.uk\packages\SpecRun.Runner.3.1.38\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-18T00:30:39.0744403+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-18T00:30:39.0764396+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Amazon.Test.Project.co.uk\TestResults" (default)
+2019-12-18T00:30:39.0804327+00:00;VSTestExecutionThread;Info;Profile: Amazon.Test.Project.co.uk
+2019-12-18T00:30:39.1411141+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Amazon.Test.Project.co.uk\TestResults\Amazon.Test.Project.co.uk_Amazon.Test.Project.co.uk_2019-12-18T003039.log
+2019-12-18T00:30:39.1740643+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-18T00:30:39.1960285+00:00;Thread#13;Info;Checking license
+2019-12-18T00:30:39.2489452+00:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-12-18T00:30:51.2497199+00:00;Thread#13;Info;Evaluation delay finished.
+2019-12-18T00:30:51.2666955+00:00;Thread#13;Info;License check completed
+2019-12-18T00:30:51.2676950+00:00;Thread#13;Info;starting test run
+2019-12-18T00:30:51.3475642+00:00;Thread#13;Info;Discovering target: Default
+2019-12-18T00:30:51.3495661+00:00;Thread#13;Info;Discovering tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-18T00:30:52.4172155+00:00;Thread#13;Info;Discovered tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-18T00:30:52.4192081+00:00:Test Suite Dump
+2019-12-18T00:30:52.4242004+00:00:#0: Amazon.Test.Project.co.uk/Amazon.Test.Project.co.uk - 
+2019-12-18T00:30:52.4242004+00:00:#1: Default - 
+2019-12-18T00:30:52.4242004+00:00:#2: Amazon.Test.Project.co.uk - 
+2019-12-18T00:30:52.4242004+00:00:#3: CustomerCanSearchForItemOfTheirChoice - 
+2019-12-18T00:30:52.5301249+00:00:#4: Customer can searchn for an item of their choice., trousers - TestAssembly:Amazon.Test.Project.co.uk/Feature:CustomerCanSearchForItemOfTheirChoice/Scenario:Customer+can+searchn+for+an+item+of+their+choice.%2c+trousers
+2019-12-18T00:30:52.5301249+00:00:#5: Customer can searchn for an item of their choice., bicycle carrier - TestAssembly:Amazon.Test.Project.co.uk/Feature:CustomerCanSearchForItemOfTheirChoice/Scenario:Customer+can+searchn+for+an+item+of+their+choice.%2c+bicycle+carrier
+2019-12-18T00:30:52.5301249+00:00:End: Test Suite Dump
+2019-12-18T00:30:52.6020139+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-18T00:30:52.6090038+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-18T00:30:52.6090038+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-18T00:30:52.6209816+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-18T00:30:52.6219794+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-18T00:30:52.6219794+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-18T00:30:52.6219794+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-18T00:30:52.6249810+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-18T00:30:52.6279716+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-18T00:30:52.6349601+00:00:Thread #0: creating new test thread executor for Amazon.Test.Project.co.uk, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-18T00:30:52.6399537+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-18T00:30:52.7068468+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-18T00:30:52.7108396+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-18T00:30:54.1943163+00:00:Thread#0:T:-> Loading plugin C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-18T00:30:54.2711956+00:00:Thread#0:T:-> Using default config
+2019-12-18T00:30:56.1107025+00:00:Thread#0: Test #4/0 is started on thread #0
+2019-12-18T00:31:09.1094985+00:00:Thread#0:B:Given I navigate to amazon homepage
+2019-12-18T00:31:19.2314503+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonHomepage() (10.0s)
+2019-12-18T00:31:19.2344475+00:00:Thread#0:B:When I enter "trousers" to searchfield
+2019-12-18T00:31:19.8235220+00:00:Thread#0:T:Element (id = 287d396b-7b22-4c63-86f9-61461b2c9025) is now retrieved
+2019-12-18T00:31:23.8192481+00:00:Thread#0:T:done: SearchStep.WhenIEnterToSearchfield("trousers") (4.6s)
+2019-12-18T00:31:23.8222437+00:00:Thread#0:B:And i click on Submitbutton
+2019-12-18T00:31:23.9540387+00:00:Thread#0:T:Element (id = 56796044-f703-4d7f-851e-649a179f50c4) is now retrieved
+2019-12-18T00:31:32.6823804+00:00:Thread#0:T:done: SearchStep.WhenIClickOnSubmitbutton() (8.9s)
+2019-12-18T00:31:32.6843801+00:00:Thread#0:B:Then new "trousers" should displayed
+2019-12-18T00:31:32.6863750+00:00:Thread#0:T:done: SearchStep.ThenNewShouldDisplayed("trousers") (0.0s)
+2019-12-18T00:31:32.7382937+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-18T00:31:32.7382937+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-12-18T00:31:32.7382937+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-12-18T00:31:32.7382937+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-18T00:31:32.7382937+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-12-18T00:31:32.7382937+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-12-18T00:31:32.7392899+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-12-18T00:31:32.7392899+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-12-18T00:31:32.7392899+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-18T00:31:34.5244903+00:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 38.4117907 seconds
+2019-12-18T00:31:34.5294868+00:00:Thread#0: Test #5/0 is started on thread #0
+2019-12-18T00:31:45.2905829+00:00:Thread#0:B:Given I navigate to amazon homepage
+2019-12-18T00:31:50.6099934+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonHomepage() (5.3s)
+2019-12-18T00:31:50.6109924+00:00:Thread#0:B:When I enter "bicycle carrier" to searchfield
+2019-12-18T00:31:51.2909234+00:00:Thread#0:T:Element (id = 06754962-ccc0-4add-b1a5-4bbeb2655153) is now retrieved
+2019-12-18T00:31:57.5101638+00:00:Thread#0:T:done: SearchStep.WhenIEnterToSearchfield("bicycle carrier") (6.9s)
+2019-12-18T00:31:57.5111628+00:00:Thread#0:B:And i click on Submitbutton
+2019-12-18T00:31:57.5970258+00:00:Thread#0:T:Element (id = b84467f5-e653-4d0e-a74a-4a9410803a3c) is now retrieved
+2019-12-18T00:32:08.0675943+00:00:Thread#0:T:done: SearchStep.WhenIClickOnSubmitbutton() (10.6s)
+2019-12-18T00:32:08.0685936+00:00:Thread#0:B:Then new "bicycle carrier" should displayed
+2019-12-18T00:32:08.0685936+00:00:Thread#0:T:done: SearchStep.ThenNewShouldDisplayed("bicycle carrier") (0.0s)
+2019-12-18T00:32:08.0715873+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-18T00:32:08.0715873+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-18T00:32:08.0715873+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-18T00:32:08.0715873+00:00:Thread#0:Scheduler: No more tests for thread
+2019-12-18T00:32:09.8847396+00:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 35.3552528 seconds
+2019-12-18T00:32:09.9666110+00:00:Trying to cancel thread
+2019-12-18T00:32:09.9666110+00:00:Thread cancelled
+2019-12-18T00:32:09.9855797+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-18T00:32:09.9855797+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-18T00:32:09.9855797+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-18T00:32:09.9895743+00:00;Thread#13;Info;test run finished
+2019-12-18T00:32:09.9895743+00:00;Thread#13;Info;publishing test results
+2019-12-18T00:32:10.2339992+00:00;Thread#13;Info;test results published
+2019-12-18T00:32:10.2349995+00:00;Thread#13;Info;generating reports
+2019-12-18T00:32:10.6284204+00:00;Thread#13;Info;Starting external report generation process
+2019-12-18T00:32:16.1928932+00:00;Thread#13;Info;Successfully generated reports.
+2019-12-18T00:32:16.1978852+00:00;Thread#13;Info;Successfully generated reports
+2019-12-18T00:32:16.2198524+00:00:Total: 2
+2019-12-18T00:32:16.2268406+00:00:Succeeded: 2
+2019-12-18T00:32:16.2278410+00:00:Ignored: 0
+2019-12-18T00:32:16.2298332+00:00:Pending: 0
+2019-12-18T00:32:16.2298332+00:00:Skipped: 0
+2019-12-18T00:32:16.2308305+00:00:Failed: 0
+2019-12-18T00:32:16.2617841+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-18T00:32:16.2627862+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\c# project\Amazon.Test.Project.co.uk\TestResults\Amazon.Test.Project.co.uk_Amazon.Test.Project.co.uk_2019-12-18T003039.html'
+========== End of log file ==========

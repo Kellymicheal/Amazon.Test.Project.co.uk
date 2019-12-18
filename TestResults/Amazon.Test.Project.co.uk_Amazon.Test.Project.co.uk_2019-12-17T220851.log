@@ -1,0 +1,46 @@
+﻿2019-12-17T22:08:48.9259326+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-17T22:08:48.9279300+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2019-12-17T22:08:48.9279300+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Amazon.Test.Project.co.uk\packages\SpecRun.Runner.3.1.38\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-17T22:08:51.4828581+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-17T22:08:51.4978369+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Amazon.Test.Project.co.uk\TestResults" (default)
+2019-12-17T22:08:51.4988369+00:00;VSTestExecutionThread;Info;Profile: Amazon.Test.Project.co.uk
+2019-12-17T22:08:51.9973972+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Amazon.Test.Project.co.uk\TestResults\Amazon.Test.Project.co.uk_Amazon.Test.Project.co.uk_2019-12-17T220851.log
+2019-12-17T22:08:52.2176993+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-17T22:08:52.3315227+00:00;Thread#14;Info;Checking license
+2019-12-17T22:08:53.0599979+00:00;Thread#14;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-12-17T22:08:58.1054020+00:00;Thread#14;Info;Evaluation delay finished.
+2019-12-17T22:08:58.1703006+00:00;Thread#14;Info;License check completed
+2019-12-17T22:08:58.1713002+00:00;Thread#14;Info;starting test run
+2019-12-17T22:08:58.3600050+00:00;Thread#14;Info;Discovering target: Default
+2019-12-17T22:08:58.3620011+00:00;Thread#14;Info;Discovering tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-17T22:09:00.7401203+00:00;Thread#14;Info;Discovered tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-17T22:09:00.7441160+00:00:Test Suite Dump
+2019-12-17T22:09:00.7560982+00:00:#0: Amazon.Test.Project.co.uk/Amazon.Test.Project.co.uk - 
+2019-12-17T22:09:00.7560982+00:00:#1: Default - 
+2019-12-17T22:09:00.7570939+00:00:#2: Amazon.Test.Project.co.uk - 
+2019-12-17T22:09:00.7590987+00:00:End: Test Suite Dump
+2019-12-17T22:09:01.1550067+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-17T22:09:01.1839641+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-17T22:09:01.1849586+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-17T22:09:01.1859562+00:00:Thread#0:Scheduler: No more tests for thread
+2019-12-17T22:09:01.2009331+00:00:Trying to cancel thread
+2019-12-17T22:09:01.2009331+00:00:Thread cancelled
+2019-12-17T22:09:01.2907872+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-17T22:09:01.2907872+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-17T22:09:01.2907872+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-17T22:09:01.3083014+00:00;Thread#14;Info;test run finished
+2019-12-17T22:09:01.3092995+00:00;Thread#14;Info;publishing test results
+2019-12-17T22:09:01.4071429+00:00;Thread#14;Info;test results published
+2019-12-17T22:09:01.4091402+00:00;Thread#14;Info;generating reports
+2019-12-17T22:09:02.9186838+00:00;Thread#14;Info;Starting external report generation process
+2019-12-17T22:09:28.3063580+00:00;Thread#14;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-12-17T22:09:28.3073563+00:00;Thread#14;Error;External program returned exit code '-2'
+2019-12-17T22:09:28.3083538+00:00;Thread#14;Info;Failed generating reports
+2019-12-17T22:09:28.4392464+00:00:Total: 0
+2019-12-17T22:09:28.4502245+00:00:Succeeded: 0
+2019-12-17T22:09:28.4652025+00:00:Ignored: 0
+2019-12-17T22:09:28.4671966+00:00:Pending: 0
+2019-12-17T22:09:28.4731877+00:00:Skipped: 0
+2019-12-17T22:09:28.4771830+00:00:Failed: 0
+2019-12-17T22:09:28.5620487+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

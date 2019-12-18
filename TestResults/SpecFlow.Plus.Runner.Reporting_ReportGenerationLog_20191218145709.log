@@ -1,0 +1,10 @@
+﻿2019-12-18T14:57:09.1799940+00:00;Thread#1;Info;Reading test run result from Json file "C:\Users\adeku\AppData\Local\Temp\tmpE944.tmp".
+2019-12-18T14:57:09.1939701+00:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\adeku\AppData\Local\Temp\tmpE944.tmp"
+2019-12-18T14:57:09.1939701+00:00;Thread#1;Info;Deserializing test run result
+2019-12-18T14:57:10.5312769+00:00;Thread#1;Info;Successfully deserialized test run result
+2019-12-18T14:57:10.5312769+00:00;Thread#1;Info;Loading test run result
+2019-12-18T14:57:10.5936635+00:00;Thread#1;Info;Successfully loaded test run result
+2019-12-18T14:57:10.6206219+00:00;Thread#1;Info;creating 1 report(s)
+2019-12-18T14:57:10.6206219+00:00;Thread#1;Info;generate Report ReportTemplate.cshtml
+2019-12-18T14:57:13.3259703+00:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

@@ -1,0 +1,35 @@
+﻿2019-12-17T22:06:37.2215665+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-17T22:06:37.2215665+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2019-12-17T22:06:37.2215665+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Amazon.Test.Project.co.uk\packages\SpecRun.Runner.3.1.38\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-17T22:06:40.0198053+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-17T22:06:40.0247956+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Amazon.Test.Project.co.uk\TestResults" (default)
+2019-12-17T22:06:40.0327867+00:00;VSTestExecutionThread;Info;Profile: Amazon.Test.Project.co.uk
+2019-12-17T22:06:40.4336992+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Amazon.Test.Project.co.uk\TestResults\Amazon.Test.Project.co.uk_Amazon.Test.Project.co.uk_2019-12-17T220640.log
+2019-12-17T22:06:40.7667036+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-17T22:06:40.9899357+00:00;Thread#14;Info;Checking license
+2019-12-17T22:06:42.8472079+00:00;Thread#14;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-12-17T22:06:56.9063108+00:00;Thread#14;Info;Evaluation delay finished.
+2019-12-17T22:06:56.9957187+00:00;Thread#14;Info;License check completed
+2019-12-17T22:06:56.9957187+00:00;Thread#14;Info;starting test run
+2019-12-17T22:06:57.1055526+00:00;Thread#14;Info;Discovering target: Default
+2019-12-17T22:06:57.1065467+00:00;Thread#14;Info;Discovering tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-17T22:06:59.6369479+00:00;Thread#14;Info;Discovered tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-17T22:06:59.6399416+00:00:Test Suite Dump
+2019-12-17T22:06:59.6540779+00:00:#0: Amazon.Test.Project.co.uk/Amazon.Test.Project.co.uk - 
+2019-12-17T22:06:59.6540779+00:00:#1: Default - 
+2019-12-17T22:06:59.6540779+00:00:#2: Amazon.Test.Project.co.uk - 
+2019-12-17T22:06:59.6550794+00:00:End: Test Suite Dump
+2019-12-17T22:06:59.9473669+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-17T22:06:59.9573558+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-17T22:06:59.9583522+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-17T22:06:59.9603510+00:00:Thread#0:Scheduler: No more tests for thread
+2019-12-17T22:06:59.9793184+00:00:Trying to cancel thread
+2019-12-17T22:06:59.9803164+00:00:Thread cancelled
+2019-12-17T22:07:00.0962424+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-17T22:07:00.0962424+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-17T22:07:00.0962424+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-17T22:07:00.1664623+00:00;Thread#14;Info;test run finished
+2019-12-17T22:07:00.1694581+00:00;Thread#14;Info;publishing test results
+2019-12-17T22:07:00.2113948+00:00;Thread#14;Info;test results published
+2019-12-17T22:07:00.2123895+00:00;Thread#14;Info;generating reports
+2019-12-17T22:07:01.9832524+00:00;Thread#14;Info;Starting external report generation process

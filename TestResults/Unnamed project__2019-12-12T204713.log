@@ -1,0 +1,171 @@
+﻿2019-12-12T20:47:13.5579715+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-12T20:47:13.5579715+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework clr40 in x86 mode execution started
+2019-12-12T20:47:13.5579715+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\c# project\Amazon.Test.Project.co.uk\packages\SpecRun.Runner.3.1.38\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-12T20:47:13.7087350+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-12T20:47:13.7087350+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\c# project\Amazon.Test.Project.co.uk\TestResults" (default)
+2019-12-12T20:47:13.7087350+00:00;VSTestExecutionThread;Info;Profile: 
+2019-12-12T20:47:13.7752086+00:00;VSTestExecutionThread;Info;Log file path: C:\c# project\Amazon.Test.Project.co.uk\TestResults\Unnamed project__2019-12-12T204713.log
+2019-12-12T20:47:13.8051658+00:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-12T20:47:13.8221350+00:00;Thread#13;Info;Checking license
+2019-12-12T20:47:13.8720610+00:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-12-12T20:47:24.8733540+00:00;Thread#13;Info;Evaluation delay finished.
+2019-12-12T20:47:24.9003045+00:00;Thread#13;Info;License check completed
+2019-12-12T20:47:24.9013010+00:00;Thread#13;Info;starting test run
+2019-12-12T20:47:24.9791817+00:00;Thread#13;Info;Discovering target: Default
+2019-12-12T20:47:24.9791817+00:00;Thread#13;Info;Discovering tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-12T20:47:26.1383643+00:00;Thread#13;Info;Discovered tests from assembly: C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\Amazon.Test.Project.co.uk.dll
+2019-12-12T20:47:26.1413589+00:00:Test Suite Dump
+2019-12-12T20:47:26.1453509+00:00:#0: Unnamed project/ - 
+2019-12-12T20:47:26.1453509+00:00:#1: Default - 
+2019-12-12T20:47:26.1453509+00:00:#2: Amazon.Test.Project.co.uk - 
+2019-12-12T20:47:26.1463482+00:00:#3: CustomerCanSearchForItemOfTheirChoice - 
+2019-12-12T20:47:26.2461951+00:00:#4: Customer can searchn for an item of their choice., trousers - TestAssembly:Amazon.Test.Project.co.uk/Feature:CustomerCanSearchForItemOfTheirChoice/Scenario:Customer+can+searchn+for+an+item+of+their+choice.%2c+trousers
+2019-12-12T20:47:26.2461951+00:00:#5: Customer can searchn for an item of their choice., bicycle carrier - TestAssembly:Amazon.Test.Project.co.uk/Feature:CustomerCanSearchForItemOfTheirChoice/Scenario:Customer+can+searchn+for+an+item+of+their+choice.%2c+bicycle+carrier
+2019-12-12T20:47:26.2461951+00:00:End: Test Suite Dump
+2019-12-12T20:47:26.3110907+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:47:26.3190771+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-12-12T20:47:26.3190771+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-12T20:47:26.3330564+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-12T20:47:26.3330564+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-12T20:47:26.3330564+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-12T20:47:26.3330564+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-12T20:47:26.3370495+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-12T20:47:26.3410423+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-12T20:47:26.3490307+00:00:Thread #0: creating new test thread executor for Amazon.Test.Project.co.uk, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-12-12T20:47:26.3540239+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-12T20:47:26.4249110+00:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-12-12T20:47:26.4289047+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-12-12T20:47:27.9325996+00:00:Thread#0:T:-> Loading plugin C:\c# project\Amazon.Test.Project.co.uk\Amazon.Test.Project.co.uk\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-12-12T20:47:28.0095539+00:00:Thread#0:T:-> Using default config
+2019-12-12T20:47:29.8765965+00:00:Thread#0: Test #4/0 is started on thread #0
+2019-12-12T20:47:42.9493922+00:00:Thread#0:B:Given I navigate to amazon web page
+2019-12-12T20:47:50.2938661+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonWebPage() (7.2s)
+2019-12-12T20:47:50.2968609+00:00:Thread#0:B:When I enter an item to "<searchfield>"
+2019-12-12T20:47:50.3128383+00:00:Thread#0:T:done: SearchStep.WhenIEnterAnItemTo("<searchfield>") (0.0s)
+2019-12-12T20:47:50.3148354+00:00:Thread#0:B:And i click on search button
+2019-12-12T20:47:50.4985477+00:00:Thread#0:T:error: The method or operation is not implemented.
+2019-12-12T20:47:50.5015405+00:00:Thread#0:B:Then new "<item>" displayed
+2019-12-12T20:47:50.5025413+00:00:Thread#0:T:skipped because of previous errors
+2019-12-12T20:47:51.0706516+00:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-12-12T20:47:51.0746428+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:47:51.0746428+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-12-12T20:47:51.0746428+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-12T20:47:51.0756416+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-12T20:47:51.0756416+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-12T20:47:51.0756416+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-12T20:47:51.0756416+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-12T20:47:51.0756416+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-12T20:47:51.0756416+00:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-12-12T20:47:58.3831682+00:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 28.5055725 seconds
+2019-12-12T20:47:58.3881637+00:00:Thread#0: Test #4/1 is started on thread #0
+2019-12-12T20:48:09.8058046+00:00:Thread#0:B:Given I navigate to amazon web page
+2019-12-12T20:48:16.7998289+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonWebPage() (7.0s)
+2019-12-12T20:48:16.8008258+00:00:Thread#0:B:When I enter an item to "<searchfield>"
+2019-12-12T20:48:16.8008258+00:00:Thread#0:T:done: SearchStep.WhenIEnterAnItemTo("<searchfield>") (0.0s)
+2019-12-12T20:48:16.8018250+00:00:Thread#0:B:And i click on search button
+2019-12-12T20:48:16.8098115+00:00:Thread#0:T:error: The method or operation is not implemented.
+2019-12-12T20:48:16.8108100+00:00:Thread#0:B:Then new "<item>" displayed
+2019-12-12T20:48:16.8108100+00:00:Thread#0:T:skipped because of previous errors
+2019-12-12T20:48:16.8148030+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:48:16.8148030+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-12-12T20:48:16.8148030+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-12-12T20:48:16.8148030+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-12T20:48:16.8148030+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-12-12T20:48:16.8148030+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-12-12T20:48:16.8148030+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-12-12T20:48:16.8148030+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-12-12T20:48:16.8148030+00:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-12-12T20:48:21.0022327+00:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 22.614069 seconds
+2019-12-12T20:48:21.0062245+00:00:Thread#0: Test #4/2 is started on thread #0
+2019-12-12T20:48:33.6416209+00:00:Thread#0:B:Given I navigate to amazon web page
+2019-12-12T20:48:40.5170394+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonWebPage() (6.9s)
+2019-12-12T20:48:40.5180452+00:00:Thread#0:B:When I enter an item to "<searchfield>"
+2019-12-12T20:48:40.5190374+00:00:Thread#0:T:done: SearchStep.WhenIEnterAnItemTo("<searchfield>") (0.0s)
+2019-12-12T20:48:40.5200339+00:00:Thread#0:B:And i click on search button
+2019-12-12T20:48:40.5240325+00:00:Thread#0:T:error: The method or operation is not implemented.
+2019-12-12T20:48:40.5250264+00:00:Thread#0:B:Then new "<item>" displayed
+2019-12-12T20:48:40.5260290+00:00:Thread#0:T:skipped because of previous errors
+2019-12-12T20:48:40.5280232+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:48:40.5280232+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-12-12T20:48:40.5280232+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-12-12T20:48:40.5280232+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-12T20:48:40.5280232+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-12-12T20:48:40.5280232+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-12-12T20:48:40.5280232+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-12-12T20:48:40.5280232+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-12-12T20:48:40.5280232+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-12-12T20:48:49.0825996+00:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 28.0763751 seconds
+2019-12-12T20:48:49.0835943+00:00:Thread#0: Test #5/0 is started on thread #0
+2019-12-12T20:49:00.8973122+00:00:Thread#0:B:Given I navigate to amazon web page
+2019-12-12T20:49:08.7849298+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonWebPage() (7.9s)
+2019-12-12T20:49:08.7849298+00:00:Thread#0:B:When I enter an item to "<searchfield>"
+2019-12-12T20:49:08.7859267+00:00:Thread#0:T:done: SearchStep.WhenIEnterAnItemTo("<searchfield>") (0.0s)
+2019-12-12T20:49:08.7869249+00:00:Thread#0:B:And i click on search button
+2019-12-12T20:49:08.7919193+00:00:Thread#0:T:error: The method or operation is not implemented.
+2019-12-12T20:49:08.7919193+00:00:Thread#0:B:Then new "<item>" displayed
+2019-12-12T20:49:08.7929194+00:00:Thread#0:T:skipped because of previous errors
+2019-12-12T20:49:08.7959158+00:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2019-12-12T20:49:08.7959158+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:49:08.7959158+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-12-12T20:49:08.7959158+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-12-12T20:49:08.7959158+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-12T20:49:08.7959158+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-12-12T20:49:08.7959158+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-12-12T20:49:08.7959158+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-12-12T20:49:08.7959158+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-12-12T20:49:08.7959158+00:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-12-12T20:49:12.9833373+00:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 23.8987412 seconds
+2019-12-12T20:49:12.9843363+00:00:Thread#0: Test #5/1 is started on thread #0
+2019-12-12T20:49:23.8426148+00:00:Thread#0:B:Given I navigate to amazon web page
+2019-12-12T20:49:36.1242818+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonWebPage() (12.3s)
+2019-12-12T20:49:36.1252799+00:00:Thread#0:B:When I enter an item to "<searchfield>"
+2019-12-12T20:49:36.1252799+00:00:Thread#0:T:done: SearchStep.WhenIEnterAnItemTo("<searchfield>") (0.0s)
+2019-12-12T20:49:36.1262773+00:00:Thread#0:B:And i click on search button
+2019-12-12T20:49:36.1302725+00:00:Thread#0:T:error: The method or operation is not implemented.
+2019-12-12T20:49:36.1312726+00:00:Thread#0:B:Then new "<item>" displayed
+2019-12-12T20:49:36.1322708+00:00:Thread#0:T:skipped because of previous errors
+2019-12-12T20:49:36.1372600+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:49:36.1372600+00:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-12-12T20:49:36.1372600+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-12-12T20:49:36.1372600+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-12-12T20:49:36.1372600+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-12-12T20:49:36.1372600+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-12-12T20:49:36.1372600+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-12-12T20:49:36.1372600+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-12-12T20:49:36.1372600+00:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-12-12T20:49:39.2334002+00:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 26.2490639 seconds
+2019-12-12T20:49:39.2344004+00:00:Thread#0: Test #5/2 is started on thread #0
+2019-12-12T20:49:50.2514469+00:00:Thread#0:B:Given I navigate to amazon web page
+2019-12-12T20:50:02.2286953+00:00:Thread#0:T:done: SearchStep.GivenINavigateToAmazonWebPage() (12.0s)
+2019-12-12T20:50:02.2286953+00:00:Thread#0:B:When I enter an item to "<searchfield>"
+2019-12-12T20:50:02.2296977+00:00:Thread#0:T:done: SearchStep.WhenIEnterAnItemTo("<searchfield>") (0.0s)
+2019-12-12T20:50:02.2306914+00:00:Thread#0:B:And i click on search button
+2019-12-12T20:50:02.2346853+00:00:Thread#0:T:error: The method or operation is not implemented.
+2019-12-12T20:50:02.2356852+00:00:Thread#0:B:Then new "<item>" displayed
+2019-12-12T20:50:02.2356852+00:00:Thread#0:T:skipped because of previous errors
+2019-12-12T20:50:02.2376809+00:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T20:50:02.2386794+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-12T20:50:02.2386794+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-12T20:50:02.2386794+00:00:Thread#0:Scheduler: No more tests for thread
+2019-12-12T20:50:04.9983460+00:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 25.7639456 seconds
+2019-12-12T20:50:05.0961945+00:00:Trying to cancel thread
+2019-12-12T20:50:05.0961945+00:00:Thread cancelled
+2019-12-12T20:50:05.1211574+00:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-12T20:50:05.1211574+00:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-12T20:50:05.1211574+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-12T20:50:05.1471135+00:00;Thread#13;Info;test run finished
+2019-12-12T20:50:05.1481139+00:00;Thread#13;Info;publishing test results
+2019-12-12T20:50:05.4446467+00:00;Thread#13;Info;test results published
+2019-12-12T20:50:05.4456455+00:00;Thread#13;Info;generating reports
+2019-12-12T20:50:05.9049239+00:00;Thread#13;Info;Starting external report generation process
+2019-12-12T20:50:11.5069917+00:00;Thread#13;Info;Successfully generated reports.
+2019-12-12T20:50:11.5109852+00:00;Thread#13;Info;Successfully generated reports
+2019-12-12T20:50:11.5319510+00:00:Total: 2 (test executions: 6)
+2019-12-12T20:50:11.5359426+00:00:Succeeded: 0
+2019-12-12T20:50:11.5379390+00:00:Ignored: 0
+2019-12-12T20:50:11.5389385+00:00:Pending: 0
+2019-12-12T20:50:11.5389385+00:00:Skipped: 0
+2019-12-12T20:50:11.5399365+00:00:Failed: 2
+2019-12-12T20:50:11.5676374+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-12-12T20:50:11.5676374+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\c# project\Amazon.Test.Project.co.uk\TestResults\Unnamed project__2019-12-12T204713.html'
+========== End of log file ==========
